@@ -1,0 +1,9 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "octokit": "^4.0.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
